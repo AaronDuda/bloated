@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://ddv2soknyahok"
-path="res://.godot/imported/Bloated.icon.png-688f8d7644c2d54c5fbebfe4fa35203f.ctex"
+uid="uid://i4gykfrjlgmd"
+path="res://.godot/imported/Bloated.icon.png-55b7c7c29c0ce70fca29d6837be3e18d.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://html/Bloated.icon.png"
-dest_files=["res://.godot/imported/Bloated.icon.png-688f8d7644c2d54c5fbebfe4fa35203f.ctex"]
+source_file="res://new_html/Bloated.icon.png"
+dest_files=["res://.godot/imported/Bloated.icon.png-55b7c7c29c0ce70fca29d6837be3e18d.ctex"]
 
 [params]
 
